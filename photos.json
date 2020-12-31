@@ -1,0 +1,436 @@
+[
+  {
+    "id": 0,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-1.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-1.jpg"
+  },
+  {
+    "id": 1,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-2.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-3.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-4.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-5.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-6.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-7.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-7.jpg"
+  },
+  {
+    "id": 7,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-8.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-8.jpg"
+  },
+  {
+    "id": 8,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-9.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-11.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-11.jpg"
+  },
+  {
+    "id": 13,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/DIA-A-DIA-13.jpg",
+    "sourceBig": "assets/img/oscar/DIA-A-DIA-13.jpg"
+  },
+  {
+    "id": 15,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-1.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-1.jpg"
+  },
+  {
+    "id": 16,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-2.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-2.jpg"
+  },
+  {
+    "id": 17,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-3.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-4.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-4.jpg"
+  },
+  {
+    "id": 19,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-5.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-5.jpg"
+  },
+  {
+    "id": 20,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-6.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-6.jpg"
+  },
+  {
+    "id": 21,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-7.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-7.jpg"
+  },
+  {
+    "id": 22,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-8.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-8.jpg"
+  },
+  {
+    "id": 23,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-9.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-9.jpg"
+  },
+  {
+    "id": 24,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-10.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-10.jpg"
+  },
+  {
+    "id": 25,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/ELIMINACION-10-1.jpg",
+    "sourceBig": "assets/img/oscar/ELIMINACION-10-1.jpg"
+  },
+  {
+    "id": 33,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3320.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3320.jpg"
+  },
+  {
+    "id": 34,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3321.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3321.jpg"
+  },
+  {
+    "id": 35,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3322.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3322.jpg"
+  },
+  {
+    "id": 36,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3323.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3323.jpg"
+  },
+  {
+    "id": 37,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3324.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3324.jpg"
+  },
+  {
+    "id": 38,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3325.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3325.jpg"
+  },
+  {
+    "id": 39,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3326.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3326.jpg"
+  },
+  {
+    "id": 40,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3327.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3327.jpg"
+  },
+  {
+    "id": 41,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3328.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3328.jpg"
+  },
+  {
+    "id": 41,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3328.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3328.jpg"
+  },
+  {
+    "id": 42,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3329.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3329.jpg"
+  },
+  {
+    "id": 43,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3330.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3330.jpg"
+  },
+  {
+    "id": 44,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3331.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3331.jpg"
+  },
+  {
+    "id": 45,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3347.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3347.jpg"
+  },
+  {
+    "id": 46,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3348.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3348.jpg"
+  },
+  {
+    "id": 47,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3349.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3349.jpg"
+  },
+  {
+    "id": 48,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3350.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3350.jpg"
+  },
+  {
+    "id": 49,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3351.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3351.jpg"
+  },
+  {
+    "id": 50,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3378.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3378.jpg"
+  },
+  {
+    "id": 51,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3380.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3380.jpg"
+  },
+  {
+    "id": 52,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3381.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3381.jpg"
+  },
+  {
+    "id": 53,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3382.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3382.jpg"
+  },
+  {
+    "id": 54,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3383.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3383.jpg"
+  },
+  {
+    "id": 55,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3384.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3384.jpg"
+  },
+  {
+    "id": 56,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3385.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3385.jpg"
+  },
+  {
+    "id": 57,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3388.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3388.jpg"
+  },
+  {
+    "id": 58,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3389.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3389.jpg"
+  },
+  {
+    "id": 58,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3390.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3390.jpg"
+  },
+  {
+    "id": 60,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3397.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3397.jpg"
+  },
+  {
+    "id": 61,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3398.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3398.jpg"
+  },
+  {
+    "id": 62,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3400.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3400.jpg"
+  },
+  {
+    "id": 63,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3401.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3401.jpg"
+  },
+  {
+    "id": 64,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3402.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3402.jpg"
+  },
+  {
+    "id": 65,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3404.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3404.jpg"
+  },
+  {
+    "id": 66,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3405.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3405.jpg"
+  },
+  {
+    "id": 67,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3406.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3406.jpg"
+  },
+  {
+    "id": 68,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3407.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3407.jpg"
+  },
+  {
+    "id": 69,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/IMG_3408.jpg",
+    "sourceBig": "assets/img/oscar/IMG_3408.jpg"
+  },
+  {
+    "id": 70,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/QHUBOYOMELLAMO.jpg",
+    "sourceBig": "assets/img/oscar/QHUBOYOMELLAMO.jpg"
+  },
+  {
+    "id": 70,
+    "name": "",
+    "description": "Image description",
+    "source": "assets/img/oscar/yomellamo.png",
+    "sourceBig": "assets/img/oscar/yomellamo.png"
+  }
+]
