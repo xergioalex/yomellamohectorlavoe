@@ -1,6 +1,6 @@
 # Yo me llamao Hector Lavoe
 
-Personal Website for Hector Lavoe: https://lavoe.xergioalex.com/
+Personal Website for Hector Lavoe: https://yomellamohectorlavoe.xergioalex.com/
 
 ## :electric_plug: Powered by [XergioAleX](https://www.xergioalex.com/)
 
